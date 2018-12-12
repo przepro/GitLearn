@@ -1,4 +1,4 @@
-"this is an example of scripy"
+n example of scripy"
 echo "this is param: $PASSED"
 NUM=$(($FIRSTNUMBER + $SECONDNUMBER))
 echo "$NUM"

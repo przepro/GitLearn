@@ -1,4 +1,3 @@
-
-echo "this is param: $PASSED"
+"this is param: $PASSED"
 NUM=$(($FIRSTNUMBER + $SECONDNUMBER))
 echo "$NUM"
